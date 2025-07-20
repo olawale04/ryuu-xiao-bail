@@ -1,5 +1,5 @@
 {
-  "name": "aroyareinzu",
+  "name": "Ryuu-Xiao",
   "version": "26.0.4",
   "description": "baileys whatsapp-api",
   "keywords": [
@@ -12,7 +12,7 @@
     "url": "https://github.com/RyuuXiaoo/ryuu-xiao-bail"
   },
   "license": "MIT",
-  "author": "Aroya Reinzu",
+  "author": "Ryuu-Xiao",
   "main": "lib/index.js",
   "files": [
     "lib/*",
@@ -50,6 +50,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/Ryuu311/RyuuBails/issues"
+    "url": ""
   }
 }
